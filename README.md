@@ -3,9 +3,10 @@
 <h2 align="center">Welcome to my profile, I'm Gegegegensan. </h2>
   <br>
 <ul>
-<li>🔭 I’m currently working on OceanLog (Under development : https://ol-nuxt.web.app/, alpha version : https://oceanlog.app) that provides an online diving log, SNS for diving and diving shop CRM as my personal project.</li>
+<li>🔭  I’m currently working on OceanLog (Under development : https://ol-nuxt.web.app/, alpha version : https://oceanlog.app) that provides an online diving log, SNS for diving and diving shop CRM as my personal project.</li>
 <li>🌱 I’ve been learning TypeScript, C#, C++, Vue.js, Angular, .NET, Blazor, Xamarin, photography etc..</li>
-<li>📷 Also want to do something with photography.</li>
+<li>😄 I sometimes help friends to publish websites technology agnosticly. (e.x. https://yutatamura.art, https://suncord.bike etc)</li>
+<li>📷  Also want to do something with photography.</li>
 </ul>
   <div align="center">
 <img src="https://raw.githubusercontent.com/Gegegegensan/Gegegegensan/master/images/light1.png" style="opacity: 0.1;" width="100" hspace="3">
@@ -20,8 +21,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
